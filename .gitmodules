@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "glmm.hp"]
-	path = glmm.hp
-	url = https://github.com/laijiangshan/glmm.hp
-	shallow = true
-	registered = true
 [submodule "rdacca.hp"]
 	path = rdacca.hp
 	url = https://github.com/laijiangshan/rdacca.hp
+	shallow = true
+	registered = true
+[submodule "glmm.hp"]
+	path = glmm.hp
+	url = https://github.com/laijiangshan/glmm.hp
 	shallow = true
 	registered = true
