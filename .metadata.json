@@ -1,10 +1,10 @@
 [
   {
-    "package": "rdacca.hp",
+    "package": "glmm.hp",
     "oncran": true
   },
   {
-    "package": "glmm.hp",
+    "package": "rdacca.hp",
     "oncran": true
   }
 ]
