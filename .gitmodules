@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "gam.hp"]
+	path = gam.hp
+	url = https://github.com/laijiangshan/gam.hp
 [submodule "glmm.hp"]
 	path = glmm.hp
 	url = https://github.com/laijiangshan/glmm.hp
