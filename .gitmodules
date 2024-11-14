@@ -8,6 +8,9 @@
 [submodule "glmm.hp"]
 	path = glmm.hp
 	url = https://github.com/laijiangshan/glmm.hp
+[submodule "phylolm.hp"]
+	path = phylolm.hp
+	url = https://github.com/laijiangshan/phylolm.hp
 [submodule "rdacca.hp"]
 	path = rdacca.hp
 	url = https://github.com/laijiangshan/rdacca.hp
