@@ -14,3 +14,6 @@
 [submodule "rdacca.hp"]
 	path = rdacca.hp
 	url = https://github.com/laijiangshan/rdacca.hp
+[submodule "upset.hp"]
+	path = upset.hp
+	url = https://github.com/laijiangshan/upset.hp
